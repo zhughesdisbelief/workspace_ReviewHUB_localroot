@@ -2,3 +2,7 @@ Here is some new stufg
 Here is some more newer stuff
 here is some more, extra newer stuff
 4th iteration
+
+---- added a unicode character to branch ----
+
+5th iteration (post-unicode branch name)
